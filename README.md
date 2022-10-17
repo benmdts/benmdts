@@ -21,5 +21,7 @@
 
 ---
 ### 🏆 &nbsp;Trophies :
-
+<div id="header" align="center">
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=benmdts&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
