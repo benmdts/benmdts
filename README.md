@@ -1,3 +1,7 @@
+<div id="header" align="center">
+<img src="/Image 34.png" alt="ProfilePicture" width="300"/>
+</div>
+
 ### Hello 🐼👋
 - 🇧🇪 I'm a Belgian student
 - 🌱 I’m currently learning C, Python, Java, JavaScript, HTML, CSS, Swift UI.
@@ -10,8 +14,12 @@
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=benmdts&theme=dark&background=000000)](https://git.io/streak-stats)
+<div id="header" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benmdts&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benmdts&show_icons=true&theme=radical)
+  </div>
 
 ---
+### 🏆 &nbsp;Trophies :
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=benmdts&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
