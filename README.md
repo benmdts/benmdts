@@ -4,7 +4,7 @@
 
 ### Hello 🐼👋
 - 🇧🇪 I'm a Belgian student
-- 🌱 I’m currently learning C, Python, Java, JavaScript, HTML, CSS, Swift UI.
+- 🌱 I’m currently learning C, Python, Java, JavaScript, HTML, CSS, Swift and Swift UI.
 - 📫 How to reach me: benoit.moedts@outlook.com
 
 <div id="header" align="center">
